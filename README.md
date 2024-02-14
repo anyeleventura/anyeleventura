@@ -8,7 +8,7 @@
 @@I'm a lover of technology, art and music@@
 
 + Living in Fortaleza, Ceará - Brazil 🇧🇷
-- 18 years old 
+- 19 years old 
 ! React and NodeJS programmer and always studying some technology
 # Interested in PHP, Laravel, C# and how IA's are made 😵
 ```
