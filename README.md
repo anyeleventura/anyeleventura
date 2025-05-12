@@ -5,12 +5,14 @@
 ## **🧐 About Me:**
 
 ```diff
-@@I'm a lover of technology, art and music@@
+@@I'm passionate about technology, learning, and problem-solving@@
 
-+ Living in Fortaleza, Ceará - Brazil 🇧🇷
-- 19 years old 
-! React and NodeJS programmer and always studying some technology
-# Interested in PHP, Laravel, C# and how IA's are made 😵
+Living in Fortaleza, Ceará - Brazil 🇧🇷
+
+19 years old
+! FullStack Developer working with PHP (CodeIgniter), JavaScript, and automated testing
+
+Currently diving deeper into Cypress, Node.js, AWS, and how to make QA smarter with automation 🤖
 ```
 
 <div align="end">
