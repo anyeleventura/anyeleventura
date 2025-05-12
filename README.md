@@ -9,7 +9,7 @@
 
 Living in Fortaleza, Ceará - Brazil 🇧🇷
 
-19 years old
+20 years old
 ! FullStack Developer working with PHP (CodeIgniter), JavaScript, and automated testing
 
 Currently diving deeper into Cypress, Node.js, AWS, and how to make QA smarter with automation 🤖
@@ -34,19 +34,22 @@ Currently diving deeper into Cypress, Node.js, AWS, and how to make QA smarter w
 
 <div align="center">
   
+![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
+![CODEIGNITER](https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![SASS](https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF&color=CD6799)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
 ![LARAVEL](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel&logoColor=FFFFFF&color=F05340)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
+
+![CYPRESS](https://img.shields.io/badge/cypress-%23404d59.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
@@ -54,34 +57,5 @@ Currently diving deeper into Cypress, Node.js, AWS, and how to make QA smarter w
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 </div>
-
-<div align="center">
-<!--   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme =novatorem&bar_color=53b14f&bar_color_cover=true" /> -->
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=anyeleventura&theme=neon-dark&hide_border=true&background=DD272700" />
-</div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Code Distribution</summary>
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anyeleventura&layout=compact&theme=radical" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Readme Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=anyeleventura&show_icons=true&theme=radical" />
-      </details>
-    </td>
-  </tr>
-</table>
 
 <Estrelas de verdade desafiam a escuridao. Continue tentando. Voce consegue.>
